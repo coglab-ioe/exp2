@@ -1,4 +1,4 @@
-# cogioe.github.io
+# .github.io
 
 ## UI Design Tabs
 
